@@ -1,0 +1,42 @@
+.texto{
+    
+}
+.texto span:first-child {
+    color: rgb(255, 119, 0);
+}
+/* .texto span:last-child {
+    color: green;
+} */
+
+.texto span:nth-child(2){
+    color: green;
+}
+
+/* posiciones */
+.contenedor{
+    position: relative;
+}
+
+.caja-padre{
+    background: red;
+    width: 400px;
+    height: 400px;
+    position: static;
+}
+.caja-hijo{
+    background: rgb(11, 92, 184);
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 0;
+    /* bottom: 0; */
+    left: 0;
+    /* right: 0; */
+
+    /*
+        --static
+        --relativo
+        --absoluto
+        --fixed
+    */
+}
