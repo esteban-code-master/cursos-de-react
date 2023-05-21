@@ -1,0 +1,44 @@
+[
+    {
+        "code_tour": "KGDG",
+        "ranger_date": [
+            {
+                "date_start": "2023-01-01",
+                "date_end": "2023-06-01",
+                "packs": {
+                    "adults": 5,
+                    "children": 5
+                }
+            },
+            {
+                "date_start": "2023-06-02",
+                "date_end": "2023-12-12",
+                "packs": {
+                    "adults": 10,
+                    "children": 10
+                }
+            }
+        ]
+    },
+    {
+        "code_tour": "06VI",
+        "ranger_date": [
+            {
+                "date_start": "2023-01-01",
+                "date_end": "2023-04-01",
+                "packs": {
+                    "adults": 5,
+                    "children": 5
+                }
+            },
+            {
+                "date_start": "2023-05-02",
+                "date_end": "2023-08-12",
+                "packs": {
+                    "adults": 10,
+                    "children": 10
+                }
+            }
+        ]
+    }
+]

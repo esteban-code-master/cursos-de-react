@@ -1,0 +1,123 @@
+[
+    {
+        "code_tour": "KGDG",
+        "schedules": [
+            {
+                "hour": "09:00: AM"
+            },
+            {
+                "hour": "10:00: AM"
+            },
+            {
+                "hour": "13:00: PM"
+            },
+            {
+                "hour": "15:00: PM"
+            }
+        ]
+    },
+    {
+        "code_tour": "06VI",
+        "schedules": [
+            {
+                "hour": "09:00: AM"
+            },
+            {
+                "hour": "15:00: PM"
+            }
+        ]
+    },
+    {
+        "code_tour": "B74Y",
+        "schedules": [
+            {
+                "hour": "09:00: AM"
+            }
+        ]
+    },
+    {
+        "code_tour": "V81I",
+        "schedules": []
+    },
+    {
+        "code_tour": "12WG",
+        "schedules": [
+            {
+                "hour": "09:00: AM"
+            },
+            {
+                "hour": "10:00: AM"
+            },
+            {
+                "hour": "13:00: PM"
+            },
+            {
+                "hour": "15:00: PM"
+            }
+        ]
+    },
+    {
+        "code_tour": "VL7W",
+        "schedules": [
+            {
+                "hour": "14:00: AM"
+            },
+            {
+                "hour": "16:00: PM"
+            },
+            {
+                "hour": "19:00: PM"
+            }
+        ]
+    },
+    {
+        "code_tour": "R5MW",
+        "schedules": [
+            {
+                "hour": "09:00: AM"
+            }
+        ]
+    },
+    {
+        "code_tour": "EM2H",
+        "schedules": [
+            {
+                "hour": "14:00: AM"
+            },
+            {
+                "hour": "16:00: PM"
+            },
+            {
+                "hour": "19:00: PM"
+            }
+        ]
+    },
+    {
+        "code_tour": "1XBQ",
+        "schedules": [
+            {
+                "hour": "14:00: AM"
+            },
+            {
+                "hour": "16:00: PM"
+            },
+            {
+                "hour": "19:00: PM"
+            }
+        ]
+    },
+    {
+        "code_tour": "XIEY",
+        "schedules": [
+            {
+                "hour": "11:00: AM"
+            },
+            {
+                "hour": "12:00: PM"
+            },
+            {
+                "hour": "13:00: PM"
+            }
+        ]
+    }
+]

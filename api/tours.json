@@ -1,0 +1,62 @@
+[
+    {
+        "code": "KGDG",
+        "name": "nado con delfines",
+        "price_adult": 1000,
+        "price_children": 700
+    },
+    {
+        "code": "06VI",
+        "name": "ventura park",
+        "price_adult": 1300,
+        "price_children": 900
+    },
+    {
+        "code": "B74Y",
+        "name": "isla mujeres day pass",
+        "price_adult": 1000,
+        "price_children": 700
+    },
+    {
+        "code": "V81I",
+        "name": "nado con mantarrayas",
+        "price_adult": 1400,
+        "price_children": 600
+    },
+    {
+        "code": "12WG",
+        "name": "days pass cozumel cancun",
+        "price_adult": 3000,
+        "price_children": 600
+    },
+    {
+        "code": "VL7W",
+        "name": "aquatours",
+        "price_adult": 1000,
+        "price_children": 700
+    },
+    {
+        "code": "R5MW",
+        "name": "go carts cancun",
+        "price_adult": 800,
+        "price_children": 600
+    },
+    {
+        "code": "EM2H",
+        "name": "actividades extremas cancun",
+        "price_adult": 2500,
+        "price_children": 2000
+    },
+    {
+        "code": "1XBQ",
+        "name": "parque xel-ha",
+        "price_adult": 1600,
+        "price_children": 1000
+    },
+    {
+        "code": "XIEY",
+        "name": "parque garrafon",
+        "price_adult": 1100,
+        "price_children": 700
+    }
+]
