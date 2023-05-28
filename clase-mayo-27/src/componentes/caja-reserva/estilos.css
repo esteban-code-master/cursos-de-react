@@ -1,0 +1,13 @@
+.Caja{
+    width: 300px;
+    position: relative;
+}
+.header{
+    background: rgba(17, 222, 218, 0.849);
+    color: white;
+    padding: 20px;
+}
+.flex{
+    display: flex;
+    gap: 20px;
+}

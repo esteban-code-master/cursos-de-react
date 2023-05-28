@@ -1,0 +1,22 @@
+.modal {
+    background: white;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    border: 1px solid black;
+    padding: 50px 0;
+}
+.modal--content{
+    overflow: auto;
+    height: 100%;
+}
+.modal--close{
+    background: black;
+    color: white;
+    font-weight: bold;
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 10px;
+    border-radius: 5px;
+}
